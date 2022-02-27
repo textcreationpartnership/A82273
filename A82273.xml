@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A deep sigh breath'd through the lodgings at White-hall, deploring the absence of the court, and the miseries of the pallace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82273</idno>
+            <idno type="STC">Wing D812</idno>
+            <idno type="STC">Thomason E119_30</idno>
+            <idno type="STC">ESTC R22653</idno>
+            <idno type="EEBO-CITATION">99871808</idno>
+            <idno type="PROQUEST">99871808</idno>
+            <idno type="VID">124225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124225)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A deep sigh breath'd through the lodgings at White-hall, deploring the absence of the court, and the miseries of the pallace.</title>
+                  <author>Barlow, James, 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. V. and J. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to James Barlow in the Wrenn catalogue.</note>
+                  <note>Annotation on Thomason copy: "Octob: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Court and courtiers --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124225:1" rendition="simple:additions"/>
+            <p> A DEEP SIGH BREATH'D Through the Lodgings At WHITE-HALL, Deploring the abſence of the COVRT, And the Miſeries of the PALLACE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>N. V.</hi> and <hi>J. B.</hi> 1642.</p>
+            <pb facs="tcp:124225:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124225:2"/>
+            <head>A DEEP SIGH BREATH'D THROUGH THE LODGINGS AT VVHITE-HALL.</head>
+            <p>A Pallace without a Preſence! A <hi>White-Hall</hi> clad in fable veſtments! A Court without a Court! Theſe are miſteries, and miſeries, which the ſilken ages of this peacefull Iſland have not beene acquainted with, That the Feild ſhould be turn'd to Court, and the Court in to a deſert! Majeſty had wont to ſit inthron'd within thoſe glorious Walls, da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<g ref="char:EOLhyphen"/>ing their ſplendour with more awfull brightneſſe then the great Lu<g ref="char:EOLhyphen"/>minaries in the Firmament, And with the ſame life and vigour Che<g ref="char:EOLhyphen"/>riſhing the hearts of their admiring followers, And creating to thoſe Favourites on whom their beames of grace reflected, names of ho<g ref="char:EOLhyphen"/>nour, and eſtates to maintaine it till the Worlds end, and now all things as in a <hi>Chaos,</hi> involv'd and wrap't up in the black miſts of con<g ref="char:EOLhyphen"/>fuſion, and deſolation.</p>
+            <p>To begin at the entrance into the Court, where there had wont to be a continuall throng, either of Gallants ſtanding to raviſh them<g ref="char:EOLhyphen"/>ſelves with the ſight of Ladies hanſome Legs and Inſteps as they tooke Coach; Or of the tribe of guarded Liveries, by whom you could ſcarce paſſe without a jeare or a ſaucy anſwer to your queſtion; now if you would aske a queſtion there is no body to make anſwer, no nor to ſtop a purſuing Bayly, if you ſhould take that for your Sanctuary.</p>
+            <pb facs="tcp:124225:3"/>
+            <p> If you have no more manners of your ſelfe, you may piſſe in the Porters Lodge, and never feare the loſſe of your Hat, for neither the Gyant that ſtood there to be ſeene, nor he that ſtood there to take gratuities, are now in <hi>rerum natura.</hi>
+            </p>
+            <p>Being entred the Court-yard which had wont to be a Schoole of Complement, where the young Courtiers uſ'd to ſhew their new brought over <hi>French</hi> cringes, and the whole body wrigled into a geſture of Salutation; Now if you have a mind to excerciſe ther's room enough, you may complement againſt the Lenten pulpit, and no body to laugh at you.</p>
+            <p>You may without a rub, walke into the Hall, for ſurely there are no ſtrong ſmells out of the Kitching to delight your Noſtrells with all, no Proviſion to bee ſould, nor the greaſie Scullions to bee ſeene over Head and Eares in a Kettle full of Kidnies, nor any thing elſe to ſtoppe your progreſſe into the Houſe. And when you are in the Hall, for ought I know, you might as well have kept you out on't unleſſe you would diſcourſe with Miſtres Eccho, or play at Shitle-Cocke by your ſelfe, for ther's no body to play with you.</p>
+            <p>If you ſteppe up Staires to the Guard Chamber, where His Majeſties great Beefe-eaters had wont to ſit in attendance on their places, which was nothing but to tell Tales, devoure the beave<g ref="char:EOLhyphen"/>rage, keepe a great fire, and carry up Diſhes, wherein their fin<g ref="char:EOLhyphen"/>gers would bee ſometimes before they came to the Kings Table, now they are all vaniſht, nothing left but the bare Walls, and a cold Harth, from whence the Fire-irones are removed too, and as 'its thought converted into ſhooes for light Horſes. The great black-Jackes ſet under the Table, all full of Cobwebs, and the drinking Diſhes being pocket carriage you cannot but divine their fate.</p>
+            <p>You may walke into the Preſence Chamber with your Hat, Spurres, and Sword on, And if you will preſume to be ſo unmanner<g ref="char:EOLhyphen"/>ly, you may ſit downe in the Chaire of State, and no body ſay blacks your Eye, for now a dayes common men doe ſit in the Chaire of State.</p>
+            <p>If you be minded to ſurvey the Lodgings and withdrawing rooms, you ſhall finde thoſe rich and coſtly hangings of <hi>Perſian Arras</hi> and <hi>Turky-</hi>worke, (like the Biſhops) for their pride taken downe, And ſome (like the Biſhops) thrown in the <hi>Tower,</hi> and the reſt clapt cloſe
+<pb facs="tcp:124225:3"/> Priſonets in the Wardrop, unleſſe it were thoſe that (like the Biſhop) made eſcape to <hi>Yorke</hi> before the wars began, The very walls as if they were ſenſible of this calamitie, doe weepe dowre their plaiſter in griefe that their Ornaments ſhould ſuffer ſo hard a fortune.</p>
+            <p>I ſhould lead you into the Bed-Chamber, but that the Genlemen, and Grooms of it would take me for a ſaucy fellow, beſides it may be a queſtion whether there be a Bed left there or no, for the Chamber to be call'd ſo by.</p>
+            <p>But you may imploy your time in peeping into the out Offices, And leſt the cloſe-houſe ſhould offend your ſtomack, you may pleaſe to walke out upon that Exchange of Projectors, the Tarras, where th'Attendants upon the Councell Yable had wont to coole their toes, and by their whiſpering conſultations digeſt every trade into the forme of monopolies, and invent arguments of the King<g ref="char:EOLhyphen"/>doms good and his Majeſties benefit to put forward the ſame, Now you may walke a whole day and not a great Ruffe, a Satin Cap with eares, and a bag of informations by his ſide, (the Emblem of a Patten<g ref="char:EOLhyphen"/>ree) to be ſeene.</p>
+            <p>There is no uſe of the Councell Board it ſelfe, a bare Vote of the Houſe of Commons is of validity to fruſtrate or at leaſt controwle an Act of State.</p>
+            <p>The compting houſe which uſ'd to have a conſtant attendance of importunate ſuitors, is a place grown out of remembra<g ref="char:cmbAbbrStroke">̄</g>ce; And though you would give a Cofferrer's Clarke 20. l. to helpe you to 30, your Debentur will not be accepted, unleſſe you pleaſe to leave the bribe with him till ſuch time as <hi>Iupiter</hi> come down againe in a ſhower of Gould: And then upon the faith of a Courtier, you may believe you ſhall receive your money, in the meane time if you be minded to waite, you will not be diſcouraged, for ther's no body left to give you a ſurly anſwer.</p>
+            <p>At the Lodgings of the ſeverall Lords and Gentlemen, where the ſmell and odour of the perſumes and tinctures of a mornings curling, and dreſſing, made your attendance not to ſeem tedious but gave a de<g ref="char:EOLhyphen"/>light to your frequent and long ſolicitation, now ther's nothing but the raw ſent of moiſt walls, and all as ſilent as midnight.</p>
+            <p>If you love faſting you may goe to the Chappell, but as for praying there is no ſuch thing within thoſe walls, unleſſe you can pray for your ſelfe, which if you can doe according to the way of praying now uſed, it is then a queſtio<g ref="char:cmbAbbrStroke">̄</g> whether you wil be drawn to go into ſo
+<pb facs="tcp:124225:4"/> ſuperſtitious a place as that is, if there were any Service, as there is none.</p>
+            <p>In the Cockpit and Revelling Roomes, where at a Play or Maſque the darkeſt night was converted to the brighteſt Day that ever ſhin'd, by the luſter of Torches, the ſparkling of rich Jewells, and the variety of thoſe incomparable and excellent Faces, from whence the other derived their brightneſſe, where beauty ſat inthron'd in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o full glory, that had not <hi>Phaeton</hi> fir'd the World, there had wanted a Comparative whereunto to paralell the refulgencie of their bright-ſhining ſplendor, Now you may goe in without a Ticket or the danger of a broken-pate, you may enter at the Kings ſide, walke round about the Theaters, view the Pullies, the Engines, conveyances, or contrivances of every ſeveral Scaene And not an Uſher o'th Revells, or Engineere to envy or finde fault with your diſcovery, although they receive no gratuitie for the ſight of them.</p>
+            <p>There is no preſſe at the Wine-Sellor Dores and Windowes, no gaping noiſe amongſt the angry Cookes in the Kitchings, no wayting for the opening of the Poſterne-dore to take water at the Stayres, no racket nor balling in the Tenis Court, no throng nor rumbling of Coaches before the Court Gates, but all in a dumbe ſilence, as the Pallace ſtood not neere a well peopled City, but as if it were the decay'd buildings of ruin'd <hi>Troy,</hi> where ſcarce a paſſenger is known to tread once in twenty yeares.</p>
+            <p>The Officers in ordinary ſince they knew the price of Victu<g ref="char:EOLhyphen"/>alls by experience at their owne charge, are growne warie hus<g ref="char:EOLhyphen"/>bands, and ſeldome ſeene in Tavernes, becauſe a great part of their Revenew which had wont to be ſpent there, is now beſtowed the other way.</p>
+            <p>The Rangers, and Keepers of the Parkes, doe ſay that inſtead of Shoulders, Heads and Umbles for Fees, they are faine (poore ſoules God helpe them) to take whole Deere to themſelves, And therefore you may ceaſe your admiration at the miracle of ſo great ſtore of Ueniſon, to be ſould at the Cookes-ſhops about <hi>London</hi> this yeare.</p>
+            <p>The Pages and Gentlemen-Uſhers, who had wont to receive bribes for preferring of Dancing Maſters, Perſumers, Jewelles, T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re-Women Confectioners, Glovers, Silkemen, &amp;c. to Court cuſtome, have now leſſe money then the groomes, in reſpect the Lords and
+<pb facs="tcp:124225:4"/> Ladies being retir'd from the Court have abated much of the changable Gallantry whereunto they had wont every day to meta<g ref="char:EOLhyphen"/>morphiſe themſelves.</p>
+            <p>'Tis thought the Maydes of honour will now be content to take Country Eſquires for their Husbands, and that of leſſe eſtates then a thouſand pounds <hi>Per Annum,</hi> becauſe they imagine the King and Queens Favour to be no perpetuall inheritance.</p>
+            <p>The wayting Gentle-women whoſe wits were ſo ſharpe ſet that you could not deliver a meſſage without a ſcoffe, and were ſure to have a full relation made to her Lady of your forme, your carriage, your garbe, language and whole deportment, and it ſerv'd to make ſufficient diſcourſe to keepe favour, being now in the Country are growne into greene ſickneſſes, and deepe conſumptions, with very griefe that the Tenants are ſo dull headed that they cannot under<g ref="char:EOLhyphen"/>ſtand Court-jeaſts, whereby their wits are deprived of their proper commendations.</p>
+            <p>The Sticklers or Women of truſt, that held favour by keeping ſweetmeats from the whole Family, and eating them themſelves, and by giving inteligence of the faults of the houſhould, are growne rea<g ref="char:EOLhyphen"/>ſonable honeſt of their bodies, becauſe the Country affords no provo<g ref="char:EOLhyphen"/>catives above Turky Egs, Artichokes, Butter'd-Ale and Hony-ſops, which certainly are not ſo great incendiaries of rebellious bloud, as Muskadell Caudells, and Amber poſſets, wherewith their fine chaps were ſo fed that they were grown to ſuch a height of body as requir'd private conference with the Groome o'th Chambers to tame it, And yet a ſtranger might not aproach them without a reverent comple<g ref="char:EOLhyphen"/>ment, and kiſſing their white hands though they were forſooth but newly come from off the cloſe-ſtoole.</p>
+            <p>The Chambermaides and Damſells of the Napery too are all diſperſt, ſome are gone downe to the Ditchers, and Herdſ-men their Fathers, there to weare out the Silkes, the Scarfes, and broad Laces, and then returne to honeſt ruſſet, and dreſſings wrought with <hi>Coventry</hi> blue againe, ſome are eene faine to accept of the honeſt Coachmans motion, and clap up a match with him, and ſo be en<g ref="char:EOLhyphen"/>abled to keepe a Country Ale-houſe, and live by the ſinnes of the Yeamonry, and others for their more peculiar qualities diſperſt into <hi>London</hi> and entertain'd by the Citizens Wives to teach their <hi>Parakeeto's</hi> to talke, which is all they'r good for.</p>
+            <p>If at any time you deſire to ſee any body in, or neere the Court,
+<pb facs="tcp:124225:5"/> that belongs to it, goe juſt about the ſhutting in of evening, And then perhaps, you may ſee one creeping away with a Sack of Coles on his back, another with a bundle of Fagots, another with bot<g ref="char:EOLhyphen"/>tells of Wine, another bartering with a Vineger man about certaine Veſſells of decaied beere, &amp;c. for every thing would live by i'ts owne element as long as it can: But when all's gone, they'l be all gone too, and will be within a very ſhort time If the times doe not alter.</p>
+            <p>Thus you ſee poore <hi>White-Hall</hi> is miſerably deſerted of all its dar<g ref="char:EOLhyphen"/>lings, from Majeſty to muckery, forſaken and left in the moſt ſolitary condition that ever any Princes Court of ſo great eminence and Hoſpitality in the whole World was. Now I ſhould proceede to give you the reaſons of this great alteration, And perhaps had this beene printed at <hi>Yorke</hi> I might have done it, But as the caſe is I for<g ref="char:EOLhyphen"/>beare, I would be loth to have the Houſe pul'd downe where it is printed, and beſides I have no ſtomack or affection to be torne to peeces in <hi>Cheap-ſide,</hi> and though my braines be muddy I would not have them waſh't in the kennell, And therefore as ſilence is the true ſigne of mourning, I will grieve inwardly for this diſtraction, and leave prating of it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
